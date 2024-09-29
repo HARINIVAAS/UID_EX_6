@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+DESCRIPTION:
+
+Weather Application
+
+The Weather Application is a React-based app that allows users to search for real-time weather conditions for any city around the world. By utilizing the OpenWeatherMap API, the app provides users with detailed weather information, including temperature, weather description, wind speed, and more. This application serves as a practical example of API integration in React, demonstrating the ability to fetch and display data dynamically.
+
+Features:
+City Search: Enter any city name to fetch and display the current weather information.
+Real-Time Weather Data: Displays real-time temperature (in °C), weather conditions, wind speed, and location details (city and country).
+Error Handling: Displays an appropriate error message if the city is not found or the API request fails.
+Loading Indicator: Shows a loading spinner while the weather data is being fetched from the API.
+Date Display: Shows the current date formatted as Day, Date, and Month.
+
+
+Technology Stack:
+React: JavaScript library for building user interfaces.
+Axios: Promise-based HTTP client used for API requests.
+OpenWeatherMap API: External API used to retrieve real-time weather information.
+CSS: Custom styles for layout and design.
+React-Loader-Spinner: Provides a loading animation during API requests.
