@@ -83,6 +83,8 @@ Error Handling: Displays an appropriate error message if the city is not found o
 Loading Indicator: Shows a loading spinner while the weather data is being fetched from the API.
 Date Display: Shows the current date formatted as Day, Date, and Month.
 
+![EX 6](https://github.com/user-attachments/assets/f5b4ab66-824b-4b71-a65f-1588eb35ee24)
+
 
 Technology Stack:
 React: JavaScript library for building user interfaces.
