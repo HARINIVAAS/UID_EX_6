@@ -83,7 +83,7 @@ Error Handling: Displays an appropriate error message if the city is not found o
 Loading Indicator: Shows a loading spinner while the weather data is being fetched from the API.
 Date Display: Shows the current date formatted as Day, Date, and Month.
 
-![EX 6](https://github.com/user-attachments/assets/f5b4ab66-824b-4b71-a65f-1588eb35ee24)
+
 
 
 Technology Stack:
@@ -92,3 +92,5 @@ Axios: Promise-based HTTP client used for API requests.
 OpenWeatherMap API: External API used to retrieve real-time weather information.
 CSS: Custom styles for layout and design.
 React-Loader-Spinner: Provides a loading animation during API requests.
+
+![EX 6](https://github.com/user-attachments/assets/f5b4ab66-824b-4b71-a65f-1588eb35ee24)
